@@ -183,7 +183,6 @@ plt.show()
 
 #### iii) Gaussian Filter
 - Gaussian filter uses a bell-shaped Gaussian distribution to effectively attenuate high-frequency noise while preserving key edge boundaries.
-
 ![alt text](image-2.png)
 ---
 
